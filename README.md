@@ -13,3 +13,8 @@ Traffic + Weather
 - make a map interface that displays traffic and weather data at the same time
 - should have the same functionality as all other maps (e.g. directions, points of interests)
 - weather should be accurate and up to date (maybe even incorporate future forecasts based on length of trips?)
+
+Issues
+- school computers block certain libraries during android studio install that makes the program unsuable
+- using class time to reserach and refine what I want to do in the program
+- coding done at home instead
